@@ -13,13 +13,15 @@
 - Debug mode now displays way more info in-game
 - Added "Restart in Debug Mode" button in mods loader log
 
+[ Known bugs with this update ]
+- Sometimes if connection fails on news menu, the exit button will be greyed out, to exit news menu then just tap Esc on your keyboard!
+
 [ The future of Platblue Beats ]
 So... my plan for future updates is to add things like new modes, more songs and a lot more.
 I might take a small break from updating this game and come back with big Halloween update...
 
 Also, yes, there will be 2.0.0 update, I don't know when exactly but it will be, for 2.0 I am planning to add story mode!
 More info about story mode soon...
-
 
 
 Don't forget to check out new Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
