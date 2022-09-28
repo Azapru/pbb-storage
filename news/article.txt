@@ -1,31 +1,25 @@
-[ 09/14/2022 ]
+[ 09/28/2022 ]
+[ "Big" Update + The future of Platblue Beats! ]
 
-This is a test news thing
-This is a test news thing
+[ New featured and changes ]
+- New songs:
+	* Ghost Cat by Niko
+	* Peer Gynt by cYsmix
+- News menu
+- Main menu song now plays in most menus
+- A lot of new attacks and obstacles
+- Jump physics is now calculated correctly when FPS is higher or lower then 60
+- Shaders
+- Debug mode now displays way more info in-game
+- Added "Restart in Debug Mode" button in mods loader log
 
-This is a test news thing
-LOOOOONG TEEEEEEEEEEEXTTTTTTTTT LOOOOONG TEEEEEEEEEEEXTTTTTTTTT
-LOOOOONG TEEEEEEEEEEEXTTTTTTTTT LOOOOONG TEEEEEEEEEEEXTTTTTTTTT
-LOOOOONG TEEEEEEEEEEEXTTTTTTTTTLOOOOONG TEEEEEEEEEEEXTTTTTTTTTLOOOOONG TEEEEEEEEEEEXTTTTTTTTT
+[ The future of Platblue Beats ]
+So... my plan for future updates is to add things like new modes, more songs and a lot more.
+I might take a small break from updating this game and come back with big Halloween...
 
-sussy
+Also, yes, there will be 2.0.0 update, I don't know when exactly but it will be, for 2.0 I am planning to add story mode!
+More info about story mode soon...
 
-susssss
 
-[]';.,><\=-
-[]';.,><\=-
 
-------------------------------
-
-line
-line
-line
-line
-line
-line
-line
-line
-line
-linelinelinelinelinelinelinelinelinelinelinelineline
-linelinelinelinelinelinelinelinelinelineline
-linelinelineline
+Don't forget to check out new Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
