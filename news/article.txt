@@ -1,27 +1,20 @@
-[ 09/28/2022 ]
-[ "Big" Update + The future of Platblue Beats! ]
+[ 10/29/2022 ]
+[ Spooky Season 2022 ]
 
 [ New featured and changes ]
 - New songs:
-	* Ghost Cat by Niko
-	* Peer Gynt by cYsmix
-- News menu
-- Main menu song now plays in most menus
-- A lot of new attacks and obstacles
-- Jump physics is now calculated correctly when FPS is higher or lower then 60
-- Added new shaders
-- Debug mode now displays way more info in-game
-- Added "Restart in Debug Mode" button in mods loader log
+* Wicked Wails and Worn Walls by ConnorGrail
+* Nine Circles by NIGHTkilla
+- Temporarily removed ads
+- New main menu song, exclusive to Spooky Season
+- FPS should be more stable now
+- In song selection screen you can now see from what special update/event the song is
+- Replaced "Featured Custom Songs" button to "Custom Songs", it will take you to the Platblue Beats community page now
+- New health system! Instead of having 3 hearts, there's now a health bar! It slowly regenerates health if you lost some.
+- Some changes to ranking system: Now to get S rank you cannot take ANY damage.
+- All maps should now sync correctly with the music
+- And a lot of other things i forgot about...
 
-[ Known bugs with this update ]
-- Sometimes if connection fails on news menu, the exit button will be greyed out, to exit news menu then just tap Esc on your keyboard!
+also... Happy Halloween!!
 
-[ The future of Platblue Beats ]
-So... my plan for future updates is to add things like new modes, more songs and a lot more.
-I might take a small break from updating this game and come back with big Halloween update...
-
-Also, yes, there will be 2.0.0 update, I don't know when exactly but it will be, for 2.0 I am planning to add story mode!
-More info about story mode soon...
-
-
-Don't forget to check out new Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
+Don't forget to check out Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
