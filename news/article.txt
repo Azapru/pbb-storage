@@ -1,6 +1,6 @@
 [ 11/20/2022 ]
 
-Duo to corruption of the whole project on my pc,
+Due to corruption of the whole project on my pc,
 I'm officially cancelling Platblue Beats project.
 I'm so dumb for not doing correct backups and not open-sourcing the project.
 (I ACTUALLY WAS GOING TO OPEN-SOURCE IT IN THE NEXT UPDATE:sob::sob:)
