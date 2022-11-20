@@ -1,20 +1,27 @@
-[ 10/29/2022 ]
-[ Spooky Season 2022 ]
+[ 11/20/2022 ]
 
-[ New featured and changes ]
-- New songs:
-* Wicked Wails and Worn Walls by ConnorGrail
-* Nine Circles by NIGHTkilla
-- Temporarily removed ads
-- New main menu song, exclusive to Spooky Season
-- FPS should be more stable now
-- In song selection screen you can now see from what special update/event the song is
-- Replaced "Featured Custom Songs" button to "Custom Songs", it will take you to the Platblue Beats community page now
-- New health system! Instead of having 3 hearts, there's now a health bar! It slowly regenerates health if you lost some.
-- Some changes to ranking system: Now to get S rank you cannot take ANY damage.
-- All maps should now sync correctly with the music
-- And a lot of other things i forgot about...
+Duo to corruption of the whole project on my pc,
+I'm officially cancelling Platblue Beats project.
+I'm so dumb for not doing correct backups and not open-sourcing the project.
+(I ACTUALLY WAS GOING TO OPEN-SOURCE IT IN THE NEXT UPDATE:sob::sob:)
 
-also... Happy Halloween!!
+The game will still be availaible to download (with Spooky Season Update).
 
-Don't forget to check out Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
+While this is the end for Platblue Beats, this is NOT the end for Platblue Series!
+More very cool and fun games are in progress, so make sure to follow Azapru on social medias
+to don't miss new games!
+
+R.I.P. Platblue Beats, 2022 Q2 - 2022 Q4
+
+[Credits]
+Azapru - this whole game
+
+[Special Thanks]
+Clickteam - For making Clickteam Fusion 2.5, the most underrated app/game engine ever!
+Niko - @niko_abyss on Twitter
+RedShadow - @RedShadowTweet on Twitter
+
+
+
+
+also fuck you ctf2.5 (not the company) for nuking whole project, im switching to godot
