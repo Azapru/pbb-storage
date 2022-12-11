@@ -1,20 +1,42 @@
 [ 10/29/2022 ]
-[ Spooky Season 2022 ]
+[ Version 1.4 - Christmas 2022  ]
 
-[ New featured and changes ]
-- New songs:
-* Wicked Wails and Worn Walls by ConnorGrail
-* Nine Circles by NIGHTkilla
-- Temporarily removed ads
-- New main menu song, exclusive to Spooky Season
-- FPS should be more stable now
-- In song selection screen you can now see from what special update/event the song is
-- Replaced "Featured Custom Songs" button to "Custom Songs", it will take you to the Platblue Beats community page now
-- New health system! Instead of having 3 hearts, there's now a health bar! It slowly regenerates health if you lost some.
-- Some changes to ranking system: Now to get S rank you cannot take ANY damage.
-- All maps should now sync correctly with the music
-- And a lot of other things i forgot about...
+Hello player! Hope you have a good day, after long wait I present to you, Platblue Beats Christmas Update!
+This is first part of this update, because I don't have much time, next update should be out in next couple of days.
+But now, let's see what new in this update;
 
-also... Happy Halloween!!
+[NEW GAMEMODE/STYLE: Rhythm Style]
+Tired of dodging things? Now you can hit things!
+This new style is very similar to things like DDR and osu!mania
+So if you like these games, this style is for you!
+Currently this gamemode has only two official songs: Lagomorpha by Niko and MAXRAGE by EBIMAYO, more will be added later!
+
+[1 New Song]
+- MAXRAGE by EBIMAYO
+yep only one new song, for now...
+
+[New fresh animations and UI changes]
+- This update completly remakes the settings menu, it's now much more nicer and has a lot more options!
+- "AZAPRU" logo now has short animation at start
+- Remade Platblue Beats into animation
+
+[CRT Shader]
+Now the game looks way more cool with CRT shader! If you want to disable it, you can find options for that in settings menu.
+
+[Quick Song Selection Menu]
+Tired of nonstop press arrow keys to just find a song you are looking for? Well now we have a quick song selection menu!
+It displays all of the songs in a grid, just hover your mouse over them to listen to them!
+
+[Other Changes]
+- Game can now be paused with Enter key
+- Removed tools
+- Mods and Custom Songs are now stored in "%appdata%\.platbluebeats" folder instead of sitting in a game files, updating should be much easier now!
+- New custom mouse pointer
+- You can preview song duration now
+- Songs will now show how much minutes/seconds are left.
+- A lot of new settings
+- Added ability to disable constant image reloading, turning this off will cause mods that modify images to break.
+
+also... Merry Christmas!
 
 Don't forget to check out Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
