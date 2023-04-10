@@ -1,49 +1,12 @@
-[ 12/31/2022 ]
-[ Version 1.4.1 - Christmas 2022 Part 2]
-- New song: Freedom Dive by XI
+[ 4/10/2023 ]
+Hi everyone, I have some bad and good news...
+Platblue Beats will no longer be supported by me and its now cancelled.
+The launcher will continue to work until December 31st  2023, after that the game will no longer be playable through launcher.
+But, I will remake this game in the future, so don't worry...
+But first I need to finish other projects....
 
-Happy New Year!
+So thanks ya'all for playing (even that almost no one played this)
 
-
-[ 10/29/2022 ]
-[ Version 1.4 - Christmas 2022  ]
-
-Hello player! Hope you have a good day, after long wait I present to you, Platblue Beats Christmas Update!
-This is first part of this update, because I don't have much time, next update should be out in next couple of days.
-But now, let's see what new in this update;
-
-[NEW GAMEMODE/STYLE: Rhythm Style]
-Tired of dodging things? Now you can hit things!
-This new style is very similar to things like DDR and osu!mania
-So if you like these games, this style is for you!
-Currently this gamemode has only two official songs: Lagomorpha by Niko and MAXRAGE by EBIMAYO, more will be added later!
-
-[1 New Song]
-- MAXRAGE by EBIMAYO
-yep only one new song, for now...
-
-[New fresh animations and UI changes]
-- This update completly remakes the settings menu, it's now much more nicer and has a lot more options!
-- "AZAPRU" logo now has short animation at start
-- Remade Platblue Beats into animation
-
-[CRT Shader]
-Now the game looks way more cool with CRT shader! If you want to disable it, you can find options for that in settings menu.
-
-[Quick Song Selection Menu]
-Tired of nonstop press arrow keys to just find a song you are looking for? Well now we have a quick song selection menu!
-It displays all of the songs in a grid, just hover your mouse over them to listen to them!
-
-[Other Changes]
-- Game can now be paused with Enter key
-- Removed tools
-- Mods and Custom Songs are now stored in "%appdata%\.platbluebeats" folder instead of sitting in a game files, updating should be much easier now!
-- New custom mouse pointer
-- You can preview song duration now
-- Songs will now show how much minutes/seconds are left.
-- A lot of new settings
-- Added ability to disable constant image reloading, turning this off will cause mods that modify images to break.
-
-also... Merry Christmas!
-
+and of course.... 
 Don't forget to check out Platblue Beats Community page! You can go there by clicking "Community" button in the main menu.
+(even that its dead)
